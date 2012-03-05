@@ -1,2 +1,2 @@
 belajar .git dan TortoiseGit
-kudu bisa ath lah
+kudu
