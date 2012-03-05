@@ -1,2 +1,4 @@
 belajar .git dan TortoiseGit
 kudu
+
+mudah2n saja
